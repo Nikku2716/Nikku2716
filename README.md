@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning.<br>Trying to be better !.
+I'm currently learning.<br>Trying to do better !.
 
 
 # 💻 Tech Stack:
