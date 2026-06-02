@@ -2,7 +2,7 @@
   
 <samp>
   
-:3
+<27
 
 pentesting // cybersecurity // linux
 
