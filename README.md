@@ -1,4 +1,4 @@
-# [![header](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)](https://ni5arga.com)
+[![header](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)](https://ni5arga.com)
   
 <samp>
   
@@ -6,5 +6,5 @@
 
 pentesting // cybersecurity // linux
 
-<a href="https://ni5arga.com"><strong>website</strong></a>  | <a href="https://ni5arga.com/blog"><strong>blogs/research</strong></a>  | <a href="https://x.com/ni5arga"><strong>x</strong></a>  | <a href="mailto:hello@ni5arga.com"><strong>email</strong></a>
+<a href="https://nikku2716.github.io/Portfolio/"><strong>portfolio</strong></a>  | <a href="https://linkedin.com/in/nikhil-kumar-digininja/"><strong>linkedin</strong></a>  | <a href="https://x.com/GhostBlade27"><strong>x</strong></a>  | <a href="mailto:nikhil.kumar.jlr@gmail.com"><strong>email</strong></a>
 </samp>
