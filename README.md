@@ -82,7 +82,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" />
 </a>
 
-<a href="https://www.linkedin.com/in/nikhil-kumar-shadowblade" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/nikhil-shadowblade" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </a>
 </p>
