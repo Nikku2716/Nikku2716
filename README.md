@@ -13,7 +13,7 @@
 - ✉️ &nbsp;You can contact me at [nikhil.kumar.jlr@gmail.com](mailto:nikhil.kumar.jlr@gmail.com)
 - 🔭 &nbsp;I'm currently working on **BlackHawk** and **ReconX**
 - 👯 &nbsp;I'm looking to collaborate on security stuffs
-- 🤝 &nbsp;I'm looking for help with CTF's
+- 🤝 &nbsp;I'm looking for help to play CTF's
 - 🌱 &nbsp;I'm currently learning **Web exploitation** and **Machine Learning**
 - 💬 &nbsp;Ask me about Python, JS, Nmap, Wireshark, Burpsuite, Linux
 - ⚡ &nbsp;Trying to do better
