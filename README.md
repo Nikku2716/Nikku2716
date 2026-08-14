@@ -1,7 +1,15 @@
-<h1 align="center">whoami</h1>
+<h1 align="center">shadowblade</h1>
+<h3 align="center">~ security researcher | ML learner | ctf player ~</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=root%40xebec%3A~%23+learning+pentesting;root%40xebec%3A~%23+training+ML+models;root%40xebec%3A~%23+chasing+CTF+flags;root%40xebec%3A~%23+building+security+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=root%40shadowblade%3A~%23+learning+pentesting;root%40shadowblade%3A~%23+training+ML+models;root%40shadowblade%3A~%23+playing+CTFs+on+TryHackMe;root%40shadowblade%3A~%23+building+APIs+%40+FlyRank+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-kumar-shadowblade"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/shadowblade_27"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://nikku2716.github.io/shadowblade/"><img src="https://img.shields.io/badge/-Portfolio-00FF41?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+  <a href="mailto:nikhil.kumar.jlr@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -12,28 +20,23 @@
 $ cat about.txt
 ```
 
-- 🎓 B.Tech Cybersecurity undergrad, Rajasthan Technical University / RIET, Jaipur (Class of 2028)
 - 🔐 Currently learning **Penetration Testing** and **Machine Learning**
-- 🚩 Playing **CTFs** on TryHackMe and HackTheBox
-- 🛠️ Backend AI Engineer Intern @ FlyRank AI — building APIs for AI features (Node.js/Express)
-- 📢 Campus Mantri (Campus Ambassador) @ GeeksforGeeks
-- 🖥️ Technical Mentor at RIET — mentoring students in Linux administration & network security
-- ✍️ Sharing security write-ups and breakdowns as [@pokesecc](https://github.com/Nikku2716) — dark terminal aesthetic, no fluff
-- 🐧 Daily driver: CachyOS (GNOME)
+- 🚩 Playing CTFs on **TryHackMe**
+- 🛠️ Backend AI Engineer Intern @ **FlyRank AI** — building APIs for AI features (Node.js/Express)
+- 📍 Based in India
 
 ---
 
-### 🔭 What I'm Building
+### 🔭 Featured Projects
 
 | Project | Description |
 |---|---|
-| **HashBreaker** | Web app for hash-type detection, cracking, and classical cipher tools — built in Rust with Actix-web |
-| **Web Vulnerability Scanner** | OWASP ZAP-powered scanner with a Go backend, React frontend, and live scan progress over WebSockets |
-| **network-recon** | Network reconnaissance toolkit with DNS recon and bash automation |
+| **[BlakHawk](https://github.com/Nikku2716/BlakHawk)** | Security tooling project |
+| **[ReconX](https://github.com/Nikku2716/ReconX)** | Reconnaissance tooling project |
 
 ---
 
-### 🧰 Toolbox
+### 🧰 Skills
 
 **Offensive Security**
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=00FF41)
@@ -53,27 +56,7 @@ $ cat about.txt
 **Platforms**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikku2716&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikku2716&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikku2716&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-### 📡 Connect
-
-<p align="center">
-  <a href="https://github.com/Nikku2716"><img src="https://img.shields.io/badge/GitHub-Nikku2716-00FF41?style=for-the-badge&logo=github&logoColor=black" /></a>
-</p>
 
 <p align="center"><i>~$ still exploiting bugs, not features</i></p>
