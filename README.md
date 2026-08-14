@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, my name is Nikhil Kumar</h1>
+<h1 align="center">Hi, my name is Nikhil Kumar</h1>
 <h3 align="center">shadowblade | Cybersecurity Researcher</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=root%40shadowblade%3A~%23+learning+penetration+testing;root%40shadowblade%3A~%23+learning+machine+learning;root%40shadowblade%3A~%23+exploring+web+exploitation;root%40shadowblade%3A~%23+open+to+security+collabs" alt="Typing SVG" />
@@ -16,9 +12,12 @@
 - 🌍 &nbsp;I'm based in India
 - 🖥️ &nbsp;See my portfolio at [MyPortfolio](http://nikku2716.github.io/Portfolio/)
 - ✉️ &nbsp;You can contact me at [nikhil.kumar.jlr@gmail.com](mailto:nikhil.kumar.jlr@gmail.com)
-- 🔐 &nbsp;I'm currently learning **penetration testing** and **machine learning**
-- 🧠 &nbsp;I'm currently learning **web exploitation**
-- 👥 &nbsp;I'm looking to collaborate on security projects
+- 🔭 &nbsp;I'm currently working on **BlackHawk** and **ReconX**
+- 👯 &nbsp;I'm looking to collaborate on security stuffs
+- 🤝 &nbsp;I'm looking for help with CTF's
+- 🌱 &nbsp;I'm currently learning **Web exploitation** and **Machine Learning**
+- 💬 &nbsp;Ask me about Python, JS, Nmap, Wireshark, Burpsuite, Linux
+- ⚡ &nbsp;Trying to do better
 
 ---
 
@@ -88,3 +87,9 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<a href="http://www.github.com/Nikku2716"><img src="https://github-readme-stats.vercel.app/api?username=Nikku2716&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nikku2716's GitHub stats" /></a>
+</p>
