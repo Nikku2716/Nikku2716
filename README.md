@@ -15,7 +15,7 @@
 - 👯 &nbsp;I'm looking to collaborate on security stuffs
 - 🤝 &nbsp;I'm looking for help to play CTF's
 - 🌱 &nbsp;I'm currently learning **Web exploitation** and **Machine Learning**
-- 💬 &nbsp;Ask me about Python, JS, Nmap, Wireshark, Burpsuite, Linux
+- 💬 &nbsp;Ask me about Python, JS, Nmap, Wireshark, Burpsuite, Linux , security frameworks
 - ⚡ &nbsp;Trying to do better
 
 
